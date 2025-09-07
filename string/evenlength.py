@@ -9,5 +9,5 @@ s = string.split(' ')
 # print(even_length_words)
 
 
-even_length_words = list(filter(lambda x : len(x)%2==0, s))
+even_length_words = list(filter(lambda word : len(word)%2==0, s))
 print(even_length_words)

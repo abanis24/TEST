@@ -34,3 +34,13 @@
  
 
 
+data = [{ "platform": "xyz",
+            "location":"USA",
+            "categories":[{"courses":[{"title":"pec", "rating":4.8}]},
+		                    {"courses":[{"title":"cep", "rating":4.6}]}]
+            },
+{ "platform": "abc",
+"location":"CA",
+"categories":[{"courses":[{"title":"it", "rating":4.7}]}]
+}]
+
